@@ -1,0 +1,6 @@
+D:\Projects\Flat\bin\Debug\Flat.dll
+D:\Projects\Flat\bin\Debug\Flat.pdb
+D:\Projects\Flat\obj\Debug\Flat.csproj.AssemblyReference.cache
+D:\Projects\Flat\obj\Debug\Flat.csproj.CoreCompileInputs.cache
+D:\Projects\Flat\obj\Debug\Flat.dll
+D:\Projects\Flat\obj\Debug\Flat.pdb

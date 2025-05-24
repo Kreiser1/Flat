@@ -1,0 +1,9 @@
+D:\Projects\Flat\obj\Release\Flat.csproj.AssemblyReference.cache
+D:\Projects\Flat\obj\Release\Flat.csproj.CoreCompileInputs.cache
+D:\Projects\Flat\bin\Release\Flat.dll
+D:\Projects\Flat\obj\Release\Flat.dll
+D:\Projects\Flat\Release\Flat.dll
+D:\Indev\Flat\Release\Flat.dll
+D:\Indev\Flat\obj\Release\Flat.csproj.AssemblyReference.cache
+D:\Indev\Flat\obj\Release\Flat.csproj.CoreCompileInputs.cache
+D:\Indev\Flat\obj\Release\Flat.dll
